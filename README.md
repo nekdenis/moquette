@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/nekdenis/moquette.svg)](https://jitpack.io/#nekdenis/moquette)
+
 ## Fork of Moquette for Android
 
 Finally an MQTT broker for Android!
